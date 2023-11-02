@@ -3,15 +3,19 @@
   "title": "Abdilahi Jama",
   "name": "Abdilahi Jama",
   "ascii": "Abdilahi Jama",
+  "subtitle" : "Computer Science Student at Minnesota State University, Mankato",
+  "work": "Aspiring Software Engineer",
+  "experience":"MavPASS Leader at Minnesota State University, Mankato",
   "social": {
     "github": "AbdilahiMJama",
-    "linkedin": "Abdilahi M Jama"
+    "linkedin": "abdilahi-m-jama/"
   },
-  "email": "contact@email.com",
+  "email": "abdilahi.jama@mnsu.edu",
   "ps1_hostname": "abdiwawi",
   "ps1_username": "visitor",
+  "portfolio":"abdiwawi.vercel.app/",
   "repo": "https://github.com/AbdilahiMJama/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  
   
   "colors": {
     "light": {
